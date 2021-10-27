@@ -12,7 +12,7 @@ gratitude board that you can sahre whit famly and frineds
 
 ## Screenshoot of app 
 
-<a href="https://imgur.com/b1q7NAc" /></a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Idb1Er8" data-context="false" ><a href="//imgur.com/a/Idb1Er8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Getting Started
 Link to app :https://express-react-frontend.herokuapp.com/
