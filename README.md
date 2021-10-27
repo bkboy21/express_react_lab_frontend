@@ -6,7 +6,8 @@
 - CSS 
 - React
 - JavaScript
-- jQuery
+- MangoDB
+- Express
 ## Usage
 gratitude board that you can sahre whit famly and frineds 
 
