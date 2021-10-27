@@ -12,8 +12,6 @@ gratitude board that you can sahre whit famly and frineds
 
 ## Screenshoot of app 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Idb1Er8" data-context="false" ><a href="//imgur.com/a/Idb1Er8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 <a href="https://i.imgur.com/b1q7NAc.png"><img src="https://i.imgur.com/b1q7NAc.png?1" title="source: imgur.com" /></a>
 
 ## Getting Started
